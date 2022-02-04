@@ -1,0 +1,16 @@
+{
+  "name": "p2p-network-with-gun",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start":"nodemon app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.2",
+    "gun": "^0.2020.1235"
+  }
+}
